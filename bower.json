@@ -1,5 +1,5 @@
 {
-  "name": "schema-form-datetimepicker",
+  "name": "angular-schema-form-datetimepicker",
   "main": [
     "schema-form-date-time-picker.min.js"
   ],

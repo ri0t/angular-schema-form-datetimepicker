@@ -1,5 +1,5 @@
 {
-  "name": "schema-form-datetimepicker",
+  "name": "angular-schema-form-datetimepicker",
   "version": "0.1.0",
   "description": "angular-strap date/time picker add-on for schema form",
   "scripts": {
