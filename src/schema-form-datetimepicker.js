@@ -1,4 +1,4 @@
-angular.module('schemaForm-datetimepicker', ['schemaForm', 'mgcrea.ngStrap']).config(
+angular.module('schemaForm-datetimepicker', ['schemaForm', 'mgcrea.ngStrap.datepicker', 'mgcrea.ngStrap.timepicker']).config(
 ['schemaFormProvider', 'schemaFormDecoratorsProvider', 'sfPathProvider',
   function(schemaFormProvider,  schemaFormDecoratorsProvider, sfPathProvider) {
 

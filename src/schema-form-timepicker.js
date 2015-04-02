@@ -1,4 +1,4 @@
-angular.module('schemaForm-timepicker', ['schemaForm', 'mgcrea.ngStrap']).config(
+angular.module('schemaForm-timepicker', ['schemaForm', 'mgcrea.ngStrap.timepicker']).config(
 ['schemaFormProvider', 'schemaFormDecoratorsProvider', 'sfPathProvider',
   function(schemaFormProvider,  schemaFormDecoratorsProvider, sfPathProvider) {
 
